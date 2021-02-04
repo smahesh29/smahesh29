@@ -78,6 +78,13 @@ Here are some ideas to get you started:
 <br> 
 
 <div align="center">
+        
+   ## Visitor Count
+   ![Visitor Count](https://profile-counter.glitch.me/{smahesh29}/count.svg)
+        
+</div>
+
+<div align="center">
   
 <b>❤️ Thank you for visiting my Github Profile ❤️</b>
 </div>
